@@ -14,7 +14,7 @@ Listado de videos de youtube
 Obtengo de youtube el nombre del video, la Url, la duración y cuantas visualizaciones ha tenido.
 
 6. Agradecimientos. Presentar al propietario del conjunto de datos. Es necesario incluir citas de investigación o análisis anteriores (si los hay). 
-¿????
+
 
 7. Inspiración. Explique por qué es interesante este conjunto de datos y qué preguntas se pretenden responder. 
 
